@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+ border: 3px solid black;
+ display: flex;
+ width: 50%;
+ height: 100;
+
+}
+
+
+#colums{
+    border: 2px solid orange;
+    width: 300px;
+}
+
+
+#div2{
+    border: 2px solid red;
+    display: inline;
+    width: 55%;
+    
+}
+
+#div3{
+  border: 3px solid green;
+  width: 50%;
+  height: 200px;
+  position: relative;
+}
+
+#bloc3{
+  border: 3px solid purple;
+  font-weight: bold;
+  font-size: 20px;
+  height: 90px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 3px;
+  right: 3px;
+
+}
