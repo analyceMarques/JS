@@ -11,7 +11,7 @@ function imprimirMensagem(){
     
     
     var k;
-    for(k=0; k<qtd; k++){
+    for(k=0; k<qtd; k++){ //for(k=1; k>=qtd; k++) vai mudar a ordem, agr ele vai comecar no "1" e terminar no numero exato escolhido.
 
         var box = document.createElement("div");
 
