@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+fieldset {
+  margin-top: 20px;
+}
+
+#div1 label{
+  margin-right: 90px;
+}
+
+#div2 label{
+  margin-right: 71px;
+
+}
+
+#div3 #bairro{
+  margin-left: 90px;
+}
+
+#div4 #cep{
+  margin-left: 101px;
+}
+
+#cep{
+  margin-right:100px;
+}
+
+#bairro{
+  margin-right:18px;
+}
